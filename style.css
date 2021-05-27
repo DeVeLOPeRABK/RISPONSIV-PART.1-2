@@ -1,0 +1,11 @@
+.a_img img{
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+.service{}
+.s_items{}
+.s_items h1 {
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.s_items p{}
